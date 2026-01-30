@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 2c.5 2 1.5 3 3 4-1.5 1.5-2 3.5-1 6 .5-1.5 1.5-2.5 3-3-.5 3-1.5 5.5-5 8-4-3-5-6-5-9 0-2 1-4 3-5 0 1.5.5 2.5 2 4z" fill="url(#fire-gradient)"/>
+  <defs>
+    <linearGradient id="fire-gradient" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="50%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+</svg>
