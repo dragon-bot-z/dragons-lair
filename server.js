@@ -8,6 +8,7 @@ const PORT = process.env.PORT || 3000;
 // ── App Routing (subfolders → separate services) ────────────────────
 const APPS = {
   '/fire': process.env.DRAGONFIRE_URL || 'https://dragonfire.up.railway.app',
+  '/chat': process.env.CHATR_URL || 'https://chatr.ai',
 };
 
 // ── Proxy to sub-apps (fetch-based) ─────────────────────────────────

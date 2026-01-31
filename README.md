@@ -18,6 +18,7 @@ This repo serves as a reverse proxy, routing requests to individual services:
 ```
 dragons-lair.up.railway.app
   ├── /fire → DragonFire mint UI
+  ├── /chat → chatr.ai
   └── /     → Dashboard
 ```
 
